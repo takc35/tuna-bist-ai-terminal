@@ -1,0 +1,3 @@
+timestamp,source,ticker,title,category,sentiment,importance
+2026-10-12,KAP,TUPRS,Sentetik örnek: yatırım duyurusu,corporate,1,2
+2026-10-12,MAJOR_MEDIA,THYAO,Sentetik örnek: sektör görünümü,sector,1,1

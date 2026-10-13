@@ -1,0 +1,3 @@
+ticker,sector,revenue,ebitda,net_income,net_debt,equity,assets,revenue_yoy,ebitda_yoy,net_income_yoy,fcf_yoy,pe,pb,ev_ebitda,dividend_yield
+TUPRS,Enerji,100000,20000,10000,10000,50000,90000,0.12,0.18,0.22,0.1,8,1.4,6,4
+THYAO,Havacılık,200000,30000,15000,30000,70000,150000,0.1,0.08,0.14,0.2,7,1.2,5,1
